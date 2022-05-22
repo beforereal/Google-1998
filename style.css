@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+
+.data1 {
+
+    text-align: center;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+   
+}
+
+.data2 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+
+.data3 {
+    background-color: rgb(112, 204, 194);
+}
+
+.data4 {
+    background-color: rgb(98, 179, 170);
+}
+
+p {
+    font-size: small;
+}
